@@ -7,14 +7,10 @@ using a phone helded by a relative we can control the pi using VNC sever(to see 
 Paticipants are:
 
 	Ayman Swaidan
-  
-	Ali Mhanna
-  
-	Hadi AlRoz
-  
-	Khaled Baghdadi
-  
-	Zahraa Akanan
+  	Ali Mhanna
+  	Hadi AlRoz
+  	Khaled Baghdadi
+  	Zahraa Akanan
 
 In this project we create two python files:
 
